@@ -1,3 +1,4 @@
-1 + 1
+y = 1 + 1
 
-1 + "is the loneliest number"
+pp y
+# 1 + "is the loneliest number"
